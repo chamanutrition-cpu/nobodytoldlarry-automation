@@ -1,0 +1,17 @@
+name: weekly
+on:
+  schedule: [{cron: "41 16 * * 1"}]
+  workflow_dispatch: {}
+permissions: {contents: read, issues: write}
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests
+      - run: python scripts/weekly.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
