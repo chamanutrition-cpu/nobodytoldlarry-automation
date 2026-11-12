@@ -1,64 +1,75 @@
 {
- "episodes": [
-  {
-   "id": "EP10",
-   "title": "Larry Thought Expensive Wine Tastes Better 🍷 #shorts",
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/e9d7baa3-f258-4ac1-a9c6-5311a80b6eac.mp4",
-   "caption": "One of these wines costs $90. It's the same wine. 🍷\n\nLarry paid $83 for a sticker. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #wine #psychology #money #claymation",
-   "publish_at": "2026-11-12T16:15:00-05:00",
-   "platforms": {
-    "facebook": "queued",
-    "instagram": "queued",
-    "youtube": "queued"
-   }
-  },
-  {
-   "id": "EP11",
-   "title": "Larry Thought the Medium Popcorn Was the Smart Choice 🍿 #shorts",
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/8fe8d659-e557-4b6e-87e6-51fdef8d7596.mp4",
-   "caption": "One of these popcorns was never meant to be sold. 🍿\n\nThe medium has a job. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #pricing #psychology #money #claymation",
-   "publish_at": "2026-11-13T12:00:00-05:00",
-   "platforms": {
-    "facebook": "queued",
-    "instagram": "queued",
-    "youtube": "queued"
-   }
-  },
-  {
-   "id": "EP12",
-   "title": "Larry Thought the Gym Wanted Him to Come 🏋️ #shorts",
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/64d5b8f2-33c5-49c1-82a1-dadcc3a289d5.mp4",
-   "caption": "Your gym is counting on you to quit. 🏋️\n\nLarry did the math: $18 a visit. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #gym #money #newyearsresolution #claymation",
-   "publish_at": "2026-11-14T12:00:00-05:00",
-   "platforms": {
-    "facebook": "queued",
-    "instagram": "queued",
-    "youtube": "queued"
-   }
-  },
-  {
-   "id": "EP13",
-   "title": "Larry Thought Bottled Water Came From Mountains 🏔️ #shorts",
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/4558d95e-ccbb-45c8-b0f6-246545025ccf.mp4",
-   "caption": "This mountain is in someone's kitchen. 🏔️\n\nLarry read the tiny print on his water bottle. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #water #money #lifehacks #claymation",
-   "publish_at": "2026-11-15T12:00:00-05:00",
-   "platforms": {
-    "facebook": "queued",
-    "instagram": "queued",
-    "youtube": "queued"
-   }
-  },
-  {
-   "id": "EP14",
-   "title": "Larry Thought The Minimum Payment Was Helping 💳 #shorts",
-   "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/5d880fc9-b43b-45c1-90ee-0f96661f1bde.mp4",
-   "caption": "19 years for one TV. 📺\n\nLarry paid the minimum like a responsible adult. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #creditcard #money #debt #claymation",
-   "publish_at": "2026-11-16T12:00:00-05:00",
-   "platforms": {
-    "facebook": "queued",
-    "instagram": "queued",
-    "youtube": "queued"
-   }
-  }
- ]
+  "episodes": [
+    {
+      "id": "EP10",
+      "title": "Larry Thought Expensive Wine Tastes Better 🍷 #shorts",
+      "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/e9d7baa3-f258-4ac1-a9c6-5311a80b6eac.mp4",
+      "caption": "One of these wines costs $90. It's the same wine. 🍷\n\nLarry paid $83 for a sticker. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #wine #psychology #money #claymation",
+      "publish_at": "2026-11-12T16:15:00-05:00",
+      "platforms": {
+        "facebook": "done",
+        "instagram": "done",
+        "youtube": "done"
+      },
+      "ids": {
+        "facebook": "1451273079682868",
+        "instagram": "18642291283024126",
+        "youtube": "kNeEXNQYPDU"
+      }
+    },
+    {
+      "id": "EP11",
+      "title": "Larry Thought the Medium Popcorn Was the Smart Choice 🍿 #shorts",
+      "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/8fe8d659-e557-4b6e-87e6-51fdef8d7596.mp4",
+      "caption": "One of these popcorns was never meant to be sold. 🍿\n\nThe medium has a job. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #pricing #psychology #money #claymation",
+      "publish_at": "2026-11-13T12:00:00-05:00",
+      "platforms": {
+        "facebook": "queued",
+        "instagram": "queued",
+        "youtube": "done"
+      },
+      "ids": {
+        "youtube": "WCbggbC7GTA"
+      }
+    },
+    {
+      "id": "EP12",
+      "title": "Larry Thought the Gym Wanted Him to Come 🏋️ #shorts",
+      "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/64d5b8f2-33c5-49c1-82a1-dadcc3a289d5.mp4",
+      "caption": "Your gym is counting on you to quit. 🏋️\n\nLarry did the math: $18 a visit. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #gym #money #newyearsresolution #claymation",
+      "publish_at": "2026-11-14T12:00:00-05:00",
+      "platforms": {
+        "facebook": "queued",
+        "instagram": "queued",
+        "youtube": "done"
+      },
+      "ids": {
+        "youtube": "zJSrABV2YBU"
+      }
+    },
+    {
+      "id": "EP13",
+      "title": "Larry Thought Bottled Water Came From Mountains 🏔️ #shorts",
+      "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/4558d95e-ccbb-45c8-b0f6-246545025ccf.mp4",
+      "caption": "This mountain is in someone's kitchen. 🏔️\n\nLarry read the tiny print on his water bottle. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #water #money #lifehacks #claymation",
+      "publish_at": "2026-11-15T12:00:00-05:00",
+      "platforms": {
+        "facebook": "queued",
+        "instagram": "queued",
+        "youtube": "queued"
+      }
+    },
+    {
+      "id": "EP14",
+      "title": "Larry Thought The Minimum Payment Was Helping 💳 #shorts",
+      "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LeHDay8GzSXz7yAnvt7GI9nM5o/5d880fc9-b43b-45c1-90ee-0f96661f1bde.mp4",
+      "caption": "19 years for one TV. 📺\n\nLarry paid the minimum like a responsible adult. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #creditcard #money #debt #claymation",
+      "publish_at": "2026-11-16T12:00:00-05:00",
+      "platforms": {
+        "facebook": "queued",
+        "instagram": "queued",
+        "youtube": "queued"
+      }
+    }
+  ]
 }
