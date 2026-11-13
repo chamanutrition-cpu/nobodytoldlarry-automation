@@ -24,12 +24,14 @@
       "caption": "One of these popcorns was never meant to be sold. 🍿\n\nThe medium has a job. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #pricing #psychology #money #claymation",
       "publish_at": "2026-11-13T12:00:00-05:00",
       "platforms": {
-        "facebook": "queued",
-        "instagram": "queued",
+        "facebook": "done",
+        "instagram": "done",
         "youtube": "done"
       },
       "ids": {
-        "youtube": "WCbggbC7GTA"
+        "youtube": "WCbggbC7GTA",
+        "facebook": "1428220566141984",
+        "instagram": "18253193668311106"
       }
     },
     {
@@ -56,7 +58,10 @@
       "platforms": {
         "facebook": "queued",
         "instagram": "queued",
-        "youtube": "queued"
+        "youtube": "done"
+      },
+      "ids": {
+        "youtube": "Qw0PiMGgldk"
       }
     },
     {
