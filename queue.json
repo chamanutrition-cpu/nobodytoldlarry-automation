@@ -41,12 +41,16 @@
       "caption": "Your gym is counting on you to quit. 🏋️\n\nLarry did the math: $18 a visit. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #gym #money #newyearsresolution #claymation",
       "publish_at": "2026-11-14T12:00:00-05:00",
       "platforms": {
-        "facebook": "queued",
-        "instagram": "queued",
+        "facebook": "failed",
+        "instagram": "failed",
         "youtube": "done"
       },
       "ids": {
         "youtube": "zJSrABV2YBU"
+      },
+      "errors": {
+        "facebook": "422 Client Error: - for url: https://rupload.facebook.com/video-upload/v24.0/1267432195605825",
+        "instagram": "Instagram processing error"
       }
     },
     {
@@ -73,7 +77,10 @@
       "platforms": {
         "facebook": "queued",
         "instagram": "queued",
-        "youtube": "queued"
+        "youtube": "done"
+      },
+      "ids": {
+        "youtube": "9kn2sL5KwZA"
       }
     }
   ]
