@@ -49,7 +49,7 @@
         "youtube": "zJSrABV2YBU"
       },
       "errors": {
-        "facebook": "422 Client Error: - for url: https://rupload.facebook.com/video-upload/v24.0/2216974632587357",
+        "facebook": "422 Client Error: - for url: https://rupload.facebook.com/video-upload/v24.0/1159199916650414",
         "instagram": "Instagram processing error"
       }
     },
@@ -60,12 +60,14 @@
       "caption": "This mountain is in someone's kitchen. 🏔️\n\nLarry read the tiny print on his water bottle. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #water #money #lifehacks #claymation",
       "publish_at": "2026-11-15T12:00:00-05:00",
       "platforms": {
-        "facebook": "queued",
-        "instagram": "queued",
+        "facebook": "done",
+        "instagram": "done",
         "youtube": "done"
       },
       "ids": {
-        "youtube": "Qw0PiMGgldk"
+        "youtube": "Qw0PiMGgldk",
+        "facebook": "1169590728829695",
+        "instagram": "18397359550203811"
       }
     },
     {
