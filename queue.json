@@ -49,7 +49,7 @@
         "youtube": "zJSrABV2YBU"
       },
       "errors": {
-        "facebook": "422 Client Error: - for url: https://rupload.facebook.com/video-upload/v24.0/1782636682964528",
+        "facebook": "422 Client Error: - for url: https://rupload.facebook.com/video-upload/v24.0/1489885056351573",
         "instagram": "Instagram processing error"
       }
     },
@@ -77,12 +77,14 @@
       "caption": "19 years for one TV. 📺\n\nLarry paid the minimum like a responsible adult. Nobody told Larry. Now you know 👀 Follow for the stuff nobody told you.\n\n#nobodytoldlarry #creditcard #money #debt #claymation",
       "publish_at": "2026-11-16T12:00:00-05:00",
       "platforms": {
-        "facebook": "queued",
-        "instagram": "queued",
+        "facebook": "done",
+        "instagram": "done",
         "youtube": "done"
       },
       "ids": {
-        "youtube": "9kn2sL5KwZA"
+        "youtube": "9kn2sL5KwZA",
+        "facebook": "1129355013159884",
+        "instagram": "18101476670559797"
       }
     }
   ]
